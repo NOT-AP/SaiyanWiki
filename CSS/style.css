@@ -146,4 +146,43 @@ body  main{
     
     
 }
+.descriptive_image{
+    float: right;
+    clear: right;
+    width: 500px;
+    height: auto;
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(110, 110, 2);
+    text-align: center;
+    
+    
+}
 
+.descriptive_image p{
+    text-align: center;
+}
+
+.descriptive_image img{
+    width: 100%;
+}
+main p{
+    text-align: justify;
+    max-width: 100ch;
+    font-size: 18px;
+}
+.Heading{
+    background-color: rgb(255, 255, 88);
+    font-size: 30px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+
+}
+.Heading h1{
+    padding: 0px;
+    margin: 0px;
+    
+}
