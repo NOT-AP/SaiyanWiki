@@ -168,7 +168,7 @@ body  main{
 .descriptive_image img{
     width: 100%;
 }
-main p{
+.knowledge  p{
     text-align: justify;
     max-width: 100ch;
     font-size: 18px;
